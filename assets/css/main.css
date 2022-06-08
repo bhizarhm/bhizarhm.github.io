@@ -532,7 +532,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #ffffff !important;
+			background: #380f0f !important;
 			border-color: #ffffff !important;
 			color: #1b1f22;
 			content: '\f00c';
@@ -1289,7 +1289,7 @@ input, select, textarea {
 
 		#header .content {
 			border-style: solid;
-			border-color: #ffffff;
+			border-color: #585454;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1328,7 +1328,7 @@ input, select, textarea {
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			border: solid 1px #585454;
 			border-radius: 4px;
 		}
 
@@ -1364,7 +1364,7 @@ input, select, textarea {
 			left: calc(50% - 1px);
 			width: 1px;
 			height: 100%;
-			background: #ffffff;
+			background: transparent;
 		}
 
 		#header nav.use-middle ul li.is-middle {
